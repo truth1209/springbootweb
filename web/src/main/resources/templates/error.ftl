@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>支付失败</title>
+    <title>系统异常</title>
     <link href="/css/style.css?jv=2018.06.14" rel="stylesheet" type="text/css">
 </head>
 <body>
